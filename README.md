@@ -28,8 +28,8 @@ $skip 現在再生中の曲をスキップ
 $now 現在再生中の曲を表示  
 $remove 再生リストから曲を削除  
 $queue 現在のプレイリストを表示  
-$disconnect ボイスちゃんねるから切断  
-$clear プレイリスト  
+$disconnect ボイスチャンネルから切断  
+$clear プレイリストをリセット
 
 # Note
 youtubeの規約によりyoutubeの動画は未対応となっています。  
